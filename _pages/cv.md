@@ -19,9 +19,9 @@ Work experience
 ======
 * The Energy Authority (TEA)    
 Bellevue, WA| Real-Time Trading Intern|July2023–Present  
-As part of TEA, my responsibilities involve supporting power utilities by providing access to advanced resources and technology systems.   
+As part of TEA, my responsibilities involve supporting power utilities by providing access to advanced resources and technology systems.   
 • Troubleshoot daily issues experienced by Real-Time traders and perform ad-hoc analyses.   
-• Monitor various portfolio strategies and performance metrics; provide P&L reports to managers and directors   
+• Monitor various portfolio strategies and performance metrics; provide P&L reports to managers and directors   
 • Simultaneously manage multiple client portfolios in real-time and assess liquidated damages   
 
 * LEMIEUX LIBRARY AND MCGOLDRICK LEARNING COMMONS  
