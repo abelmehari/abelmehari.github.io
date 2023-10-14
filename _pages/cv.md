@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in GitHub, GitHub University, 2012  
+* M.S. in Jekyll, GitHub University, 2014   
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)    
 
 Work experience
 ======
-* The Energy Authority (TEA)
-Bellevue, WA| Real-Time Trading Intern|July2023–Present
-As part of TEA, my responsibilities involve supporting power utilities by providing access to advanced resources and technology systems.
-• Troubleshoot daily issues experienced by Real-Time traders and perform ad-hoc analyses.
-• Monitor various portfolio strategies and performance metrics; provide P&L reports to managers and directors
-• Simultaneously manage multiple client portfolios in real-time and assess liquidated damages
+* The Energy Authority (TEA)    
+Bellevue, WA| Real-Time Trading Intern|July2023–Present  
+As part of TEA, my responsibilities involve supporting power utilities by providing access to advanced resources and technology systems.   
+• Troubleshoot daily issues experienced by Real-Time traders and perform ad-hoc analyses.   
+• Monitor various portfolio strategies and performance metrics; provide P&L reports to managers and directors   
+• Simultaneously manage multiple client portfolios in real-time and assess liquidated damages   
 
-* LEMIEUX LIBRARY AND MCGOLDRICK LEARNING COMMONS
+* LEMIEUX LIBRARY AND MCGOLDRICK LEARNING COMMONS  
 Seattle, WA | Student Circulation Assistant – Access Services | October 2022 – Present
 Serving the academic research needs of students and faculty, Seattle University’s primary library 
 offering a range of resources and academic support resources where I successfully:
