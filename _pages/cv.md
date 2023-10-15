@@ -11,9 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012  
-* M.S. in Jekyll, GitHub University, 2014   
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)    
+* Master of Finance (in progress)  
+Seattle University | Seattle, WA  
+Cumulative GPA: 3.95 / 4.00  
+Current Program Content: Portfolio Management | Valuation of Derivatives | Financial Modeling  
+  
+* Master of Banking and Finance (transferred to Seattle University without completion)  
+Near East University | Lefkoşa, Cyprus  
+Cumulative GPA: 4.00 / 4.00  
+   
+* Bachelor of Banking and Finance (2021)  
+Eastern Mediterranean University | Famagusta, Cyprus  
+Cumulative GPA: 3.81 / 4.00 | Graduated Summa Cum Laude  
+• Served as 2019 – 2020 President of the Eritrean Students Society  
+• Recipient of the 2020 and 2021 Outstanding Student Scholarship  
+    
 
 Work experience
 ======
