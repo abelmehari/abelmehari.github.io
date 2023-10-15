@@ -84,14 +84,13 @@ The lead UN agency responsible for the protection of refugees, stateless people,
 **Prior Professional Experience**      
   • College of Marine Science and Technology| Massawa, Eritrea |Library Assistant| 2014–2015  
 
-Skills
+Technical Skill Sets and Languages
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+• Excel (advanced in MS Excel, especially in financial modeling)
+• EViews | SPSS | RStudio| Python
+• Microsoft Office | Outlook | Zoom
+• Fully bilingual in English and Tigrigna
+
 
 Publications
 ======
@@ -99,17 +98,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
+Extracurricular Activities
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+• Member of the Working Conditions Committee / Voice of International Students | 2020 – 2021
+Organized networking events and fundraising initiatives such as the Yemen Hunger Crisis.
+• Member of the Eritrean Youth Movement | 2010 – 2014
+Served as a health awareness advocate and coach, providing workshops and presentations on STDs
+and Malaria
   
 Service and leadership
 ======
