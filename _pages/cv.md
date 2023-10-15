@@ -81,7 +81,9 @@ The lead UN agency responsible for the protection of refugees, stateless people,
 • Providing comprehensive administrative support to UN and NGO aid workers.  
 • Serving as an English / Tigrigna translator to aid communications between staff and refugees across the UNHCR centers of operation.   
 
-  
+* Prior Professional Experience    
+  • College of Marine Science and Technology| Massawa, Eritrea |Library Assistant| 2014–2015  
+
 Skills
 ======
 * Skill 1
