@@ -1,4 +1,4 @@
-**Meta Stock analysis Report**
+**Meta Stock Analysis Report**
 ========
 
 **Highlights**  
@@ -42,7 +42,7 @@ Price in 2025	199.033185	7%	199.0332
 			
 Intrinsic value (V0)	$140.01 		
 To Calculate the intrinsic value of Meta using the multistage dividend discount model (DDM) we have to make a certain assumption. First Meta has not made any dividends in the life of the company, therefore to calculate the value of the company using the Dividend discount model, we have to assume that the company makes annual dividend payments. If we assume that the dividend payout ratio is 60% of the company’s earnings and that the Return on Equity of the firm is expected to be 22.40% in 2022, we can calculate the growth rate of the company using the ROE and the plow back ratio. the plow-back ratio must be 40%. Since the firm growth rate is 8.9%, the second assumption we have to make is that this growth rate is too high and that after 2025 the company will grow at a constant rate of 7%. Following these assumptions, if we use the 30-year treasury bond as the risk-free rate, and the average return on the S&P as the market return, we can see that the intrinsic value of the company is 140.01, which is higher than the company’s price on November 02, 2022($90) therefore according to the multistage DDM we can see conclude that the firm’s stock is undervalued.
-**5. Setting up the Target Price**    
+**5. Setting up the Target Price**        
 Table 2 Target price calculation
 Target Price calculation 	
 Market price Nov 2, 2022	90.88
@@ -56,7 +56,7 @@ PE ratio 2023	8.097743182
 Target price= market price *(PE2022/PE2023)	
 Target price 	99.022848
 The Target price that we calculate here uses the forward-looking price-to-earnings ratio (PE ratio) of 2023 to calculate this ratio we have to use the growth rate that we calculated in 2023. The formula also uses the Market price during the purchase of the stock, and the trailing twelve-month earnings per share expected in 2022. Using both those data we can calculate the current PE ratio for 2022. Following the current ratio, we can also predict the earnings per share for next year using the growth rate we calculated in the dividend discount model. Since both the current pe ratio and the forward-looking ratio are based on speculation by using the growth rate of the DDM model we are considering the lowest possible growth of the EPS we can expect given the company's ROE so far this year. The rationale here is that there are a few risks we have to consider in setting up the target price. First Meta has missed two of the three quarterly earnings per share expectations this year. Second, we all so have to consider the macroeconomic risk that has loomed over the US market during this year., with rising interest rates and the expected recession, we would like to be as conservative as we can in setting up the target price.
-**6. Expected and Realized Holding Period Return**   
+**6. Expected and Realized Holding Period Return**     
 Table 3 Expected and realized return
 EHPR	
 Purchase Price 	 $          90.88 
@@ -68,7 +68,7 @@ Purchase Price 	 $          90.88
 Selling price 	 $        109.28 
 Realized return 	20.24%
 On November 2, we purchased 337 shares of Meta for a market price of 90.88. In over five years Metas stock has not dropped this low the main reason for the drop in market price can be attributed to the company not meeting earning expectations this year. While Meta did not meet investors’ expectations this year, the expectations for Meta might have been set based on the company earnings in the year 2021 where Meta reported $117.93 billion in revenue and $39.37 billion in earnings (the largest reported earnings in the company’s history), although the company was not able to meet those expectations the companies earning are expected to be $28 billion in 2021, therefore, we can predict that the drop in value was too drastic. Metas stock price would bounce back after a couple of days and beat the target price that we set, but the stock stayed stagnant after hitting $109 therefore we concluded that the stock had hit a sealing and sold the stock.
-**7. Comparison Between Meta and the SPY Index**   
+**7. Comparison Between Meta and the SPY Index**     
 Table 4 Meta's realized return and the SPY return
 Realized return 		SPY return 	
 Purchase Price 	 $        90.88 	Price on oct 6,2022	 $ 373.20 
