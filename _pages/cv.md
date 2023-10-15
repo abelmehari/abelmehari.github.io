@@ -27,7 +27,7 @@ Cumulative GPA: 3.81 / 4.00 | Graduated Summa Cum Laude
 • Recipient of the 2020 and 2021 Outstanding Student Scholarship  
     
 
-Work experience
+Work Experience
 ======
 **The Energy Authority (TEA)**      
 **Bellevue, WA| Real-Time Trading Intern|July2023–Present**    
@@ -84,12 +84,12 @@ The lead UN agency responsible for the protection of refugees, stateless people,
 **Prior Professional Experience**      
   • College of Marine Science and Technology| Massawa, Eritrea |Library Assistant| 2014–2015  
 
-Technical Skill Sets and Languages
+Technical Skill Sets and Languages  
 ======
-• Excel (advanced in MS Excel, especially in financial modeling)
-• EViews | SPSS | RStudio| Python
-• Microsoft Office | Outlook | Zoom
-• Fully bilingual in English and Tigrigna
+• Excel (advanced in MS Excel, especially in financial modeling)  
+• EViews | SPSS | RStudio| Python  
+• Microsoft Office | Outlook | Zoom  
+• Fully bilingual in English and Tigrigna  
 
 
 Publications
@@ -102,11 +102,10 @@ Publications
   
 Extracurricular Activities
 ======
-• Member of the Working Conditions Committee / Voice of International Students | 2020 – 2021
-Organized networking events and fundraising initiatives such as the Yemen Hunger Crisis.
-• Member of the Eritrean Youth Movement | 2010 – 2014
-Served as a health awareness advocate and coach, providing workshops and presentations on STDs
-and Malaria
+• Member of the Working Conditions Committee / Voice of International Students | 2020 – 2021  
+Organized networking events and fundraising initiatives such as the Yemen Hunger Crisis.  
+• Member of the Eritrean Youth Movement | 2010 – 2014.    
+Served as a health awareness advocate and coach, providing workshops and presentations on STDs and Malaria.  
   
 Service and leadership
 ======
