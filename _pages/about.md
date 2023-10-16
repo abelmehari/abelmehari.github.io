@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-A data-driven personal website
+About me
 ======
 An aspiring Financial and Investment Banking professional, completing the required course of study leading to a Master of Finance from Seattle University. A history of impactful organizational management
 and business development. Keenly developing a range of financial modeling skillsets to steer the risk management process and contribute to stellar reporting and financial performance analysis. An ability to
