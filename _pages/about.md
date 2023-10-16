@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The Energy AUthority- Real-time Trading Intern / MS in Finance student at Seattle University / CFA candidate"
+title: "Real-time Trading Intern (The Energy Authority) / MS in Finance student at Seattle University / CFA candidate"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
