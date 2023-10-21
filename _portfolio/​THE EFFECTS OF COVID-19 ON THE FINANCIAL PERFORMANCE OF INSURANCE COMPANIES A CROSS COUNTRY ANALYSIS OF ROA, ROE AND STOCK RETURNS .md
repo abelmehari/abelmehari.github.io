@@ -1,15 +1,9 @@
 ---
-title: "THE EFFECTS OF COVID-19 ON THE FINANCIAL PERFORMANCE OF INSURANCE COMPANIES: A CROSS COUNTRY ANALYSIS OF ROA, ROE AND STOCK RETURNS"
+title: "The Effects Of Covid-19 On The Financial Performance Of Insurance Companies: A Cross Country Analysis Of ROA, ROE And Stock Returns"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-**THE EFFECTS OF COVID-19 ON THE FINANCIAL PERFORMANCE OF INSURANCE COMPANIES: A CROSS COUNTRY ANALYSIS OF ROA, ROE AND STOCK RETURNS**
 
-Abel Gebrezegabher Mehari
-
-Student Number: 20213470
-
-Supervisor: Assoc. Prof. Dr. Ahmet Ertugan
 
 **Research Proposal** 
 
