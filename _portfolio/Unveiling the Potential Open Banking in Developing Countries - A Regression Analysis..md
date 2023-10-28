@@ -1,6 +1,6 @@
 ﻿---
 title: "Unveiling the Potential Open Banking in Developing Countries - A Regression Analysis."
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/>"
 collection: portfolio
 ---
 
