@@ -49,6 +49,7 @@ In alignment with previous research, this study adopts a methodological approach
 
 
 ![Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth](/images/Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth.PNG)
+
 *Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth*
 
 Grounded in the preceding literature, the defined problem statement, and the conceptual framework, this study introduces three hypotheses that seek to elucidate the linkages between international trade, imports, exports, and economic growth:
