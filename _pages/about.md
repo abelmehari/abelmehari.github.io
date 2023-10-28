@@ -12,7 +12,9 @@ redirect_from:
 
 About Me
 ======
-Hello, I'm Abel Mehari, and I'm passionate about the world of finance and investment banking. I'm currently pursuing a Master of Finance at Seattle University, where I've maintained an impressive GPA of 3.95/4.00. My academic journey has equipped me with a strong foundation in financial modeling, risk management, and business analysis.
+Welcome!
+
+I'm Abel Mehari, and my heart beats for the dynamic world of finance and investment banking. Currently, I'm on a rewarding journey, pursuing a Master of Finance at Seattle University, where my academic excellence shines through with a GPA of 3.95/4.00. My studies have nurtured a robust skill set encompassing financial modeling, risk management, and astute business analysis.
 
 My educational path began with a Bachelor of Banking and Finance, where I graduated Summa Cum Laude from Eastern Mediterranean University. Throughout my academic career, I've had the privilege of serving as the President of the Eritrean Students Society and receiving the Outstanding Student Scholarship for two consecutive years.
 
