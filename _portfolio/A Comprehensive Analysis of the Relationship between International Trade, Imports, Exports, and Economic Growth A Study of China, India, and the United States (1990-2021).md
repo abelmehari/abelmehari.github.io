@@ -37,9 +37,9 @@ Today, while many nations endorse trade openness, the question of how much trade
 
 In addition to the numerous studies on the impact of trade on economic growth in emerging and developed economies, there is empirical research that seeks to establish a connection between economic growth and international trade for developing countries. In an effort to demonstrate this linkage, (Caleb, Mazanai, and Netsai. 2014) conducted an extensive review focusing on the relationship between trade and growth in Zimbabwe. Their study reveals a long-term connection between economic growth and international trade, emphasizing the crucial importance of the stability of microeconomic factors in promoting trade and, consequently, economic growth. The study suggests that policies aimed at enhancing trade would exert a substantial impact on the economy, allowing businesses to leverage trade and investment opportunities. Moreover, it proposes that trade policies targeting competitiveness and export expansion have the potential to stimulate economic growth in Zimbabwe over the medium to long term. A similar endeavor conducted by (Azeez, Dada, and Aluko. 2014) in Nigeria also yields empirical evidence of a significantly positive link between international trade and economic growth, with a focus on the influence of both imports and exports.
 
-Export-oriented trade policies are recognized for their potential to stimulate economic growth, as exports serve as a vital source of income for nations, driving resource allocation toward optimal levels (Feder, 1983). A successful export growth policy can trigger a positive multiplier effect, generating a substantial feedback loop in the economy (Caleb, Mazanai, and Netsai. 2014). (Feder.1983), in a study examining the sources of growth in less developed countries from 1964 to 1973, demonstrates that not only can exports contribute to economic growth, but also an increase in exports can reallocate unproductive sectors to more productive export-oriented segments of the economy. Similarly, (Yao. 2006) investigates China's export-oriented strategy, highlighting the pivotal roles played by the devaluation of the RMB and the introduction of foreign direct investment (FDI) in driving China's remarkable economic growth. However, the study also underscores persisting challenges, including uneven regional development and environmental degradation.
+Export-oriented trade policies are recognized for their potential to stimulate economic growth, as exports serve as a vital source of income for nations, driving resource allocation toward optimal levels (Feder, 1983). A successful export growth policy can trigger a positive multiplier effect, generating a substantial feedback loop in the economy (Caleb, Mazanai, and Netsai. 2014). (Feder.1983), a study examining the sources of growth in less developed countries from 1964 to 1973, demonstrates that not only can exports contribute to economic growth, but also an increase in exports can reallocate unproductive sectors to more productive export-oriented segments of the economy. Similarly, (Yao. 2006) investigates China's export-oriented strategy, highlighting the pivotal roles played by the devaluation of the RMB and the introduction of foreign direct investment (FDI) in driving China's remarkable economic growth. However, the study also underscores persisting challenges, including uneven regional development and environmental degradation.
 
-While imports are often viewed as potential constraints on economic growth, they can play a pivotal role in stimulating growth by facilitating the transfer of technology from developed countries to developing economies (Awokuse. 2011). (Islam, Hye, and Shahbaz.2012) contend that a long-term connection exists between imports and growth, particularly for high-income countries. Similarly, (Ugur. 2008), in his investigation of import and growth in Turkey, indicates that imports and growth exhibit a positive correlation, particularly for investment goods such as raw materials, as opposed to consumer goods.
+While imports are often viewed as potential constraints on economic growth, they can play a pivotal role in stimulating growth by facilitating the transfer of technology from developed countries to developing economies (Awokuse. 2011). (Islam, Hye, and Shahbaz.2012) contend that a long-term connection exists between imports and growth, particularly for high-income countries. Similarly, (Ugur. 2008), in his investigation of imports and growth in Turkey, indicates that imports and growth exhibit a positive correlation, particularly for investment goods such as raw materials, as opposed to consumer goods.
 
 **METHODOLOGY**                                                                                                                                                                                           
 
@@ -47,31 +47,8 @@ Economic growth is conventionally measured using the standard metric of Gross Do
 
 In alignment with previous research, this study adopts a methodological approach that centers on examining the correlation between economic growth and trade. Furthermore, this research extends the scope by delving into specific elements, assessing how both imports and exports distinctly affect economic growth. Based on the reviewed literature and the articulated problem statement, this study illustrates a conceptual model (Figure 1) portraying the intricate relationship between international trade and economic growth.
 
-Import(M)
-![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.001.png)![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.002.png)
 
-**H2** text here
-
-![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.003.png)![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.004.png)![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.005.png)
-
-Economic Growth (GDP)
-
-Trade (Trade Volume as % of GDP)
-
-**H1** text here
-![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.006.png)![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.007.png)![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.008.png)![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.009.png)
-
-![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.010.png)![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.011.png)
-
-**H3** text here
-
-![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.012.png)
-
-Export(X)
-
-![](Aspose.Words.700158b1-a0f2-4416-a23e-571ae8224469.013.png)
-
-
+- [Github Code Repository](images/Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth.PNG)
 *Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth*
 
 Grounded in the preceding literature, the defined problem statement, and the conceptual framework, this study introduces three hypotheses that seek to elucidate the linkages between international trade, imports, exports, and economic growth:
