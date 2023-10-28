@@ -1,24 +1,13 @@
-﻿
-
-EASTERN MEDITERRANEAN UNIVERSITY
-
-FACULTY OF BUSSINES & ECONOMICS 
-
-DEPARTMENT OF BANKING AND FINANCE
+﻿---
+title: "Unveiling the Potential Open Banking in Developing Countries - A Regression Analysis."
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
 
 
-**OPEN BANKING FOR DEVELOPING COUNTRIES: A REGRESSION ANALYSIS**
 
+**Unveiling the Potential Open Banking in Developing Countries - A Regression Analysis.**
 
-**FINA 318 - ISSUES IN FINANCIAL SERVICES** 
-
-**SUPERVISOR: Prof. Dr. SALİH KATIRCIOĞLU**
-
-**SUBMITED BY: ABEL MEHARI 18700930**
-
-**SUMMER SEMESTER 2019-2020**
-
-#
 
 #
 #
