@@ -48,7 +48,7 @@ Economic growth is conventionally measured using the standard metric of Gross Do
 In alignment with previous research, this study adopts a methodological approach that centers on examining the correlation between economic growth and trade. Furthermore, this research extends the scope by delving into specific elements, assessing how both imports and exports distinctly affect economic growth. Based on the reviewed literature and the articulated problem statement, this study illustrates a conceptual model (Figure 1) portraying the intricate relationship between international trade and economic growth.
 
 
-![Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth](/images/Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth.PNG)
+![Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth](images/Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth.PNG)
 
 *Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth*
 
