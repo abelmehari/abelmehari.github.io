@@ -116,9 +116,7 @@ H2: open banking will significantly increase the living standard of developing c
 Figure 1 visually illustrates a direct relationship between open banking and the development of countries. However, it is essential to recognize that the performance of open banking is intricately intertwined with the external factors previously mentioned, which play a pivotal role in determining its impact.
 
 
-![Figure 1: Conceptual Model of the relationship between open banking and developing countries](images/Figure 1. Conceptual Model of the relationship between open banking and developing countries.png)
-
-
+![Figure 1: Conceptual Model of the relationship between open banking and developing countries.](/images/images/Figure 1. Conceptual Model of the relationship between open banking and developing countries.png)
 
 `      `**Figure 1. Conceptual Model of the relationship between open banking and developing                                                                                             countries**
 
