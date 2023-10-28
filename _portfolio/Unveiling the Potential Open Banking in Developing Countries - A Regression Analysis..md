@@ -90,15 +90,16 @@ Given that open banking is still in its early developmental stages, numerous asp
 
 Since the inception of open banking, researchers in developed countries have diligently amassed a wealth of variables that have a potential impact on the performance of open banking. Our research seeks to explore these variables in order to predict the performance of open banking in developing countries. To achieve this, we must first closely examine how open banking has fared in developed countries and identify the external factors influencing its outcomes. The key variables to be utilized in our study encompass:
 
-1. **Open Banking:** Open banking, recognized as a secure method for sharing financial transaction data with financial service providers to facilitate improved financial decision-making, will be gauged through a survey conducted in the United States. This survey collects the opinions of individuals aged 18 and above to ascertain their perception of the value of open banking (source: [www.deloitte.com](http://www.deloitte.com/)).
-1. **Developing Countries:** Our focus extends to low- and middle-income countries, such as Albania, Brazil, Belarus, Eritrea, India, and Nigeria.
-1. **External Factors:** These external determinants can exert either a positive or negative influence on the performance of open banking in both developed and developing countries. The prominent external factors include:
+1. **Open Banking:** Open banking, recognized as a secure method for sharing financial transaction data with financial service providers to facilitate improved financial decision-making, will be gauged through a survey conducted in the United States. This survey collects the opinions of individuals aged 18 and above to ascertain their perception of the value of open banking (source: [www.deloitte.com](http://www.deloitte.com/)).  
+   
+2. **Developing Countries:** Our focus extends to low- and middle-income countries, such as Albania, Brazil, Belarus, Eritrea, India, and Nigeria.  
+3. **External Factors:** These external determinants can exert either a positive or negative influence on the performance of open banking in both developed and developing countries. The prominent external factors include:  
    1. **Financial Literacy** (source: [www.oecd-ilibrary.org](http://www.oecd-ilibrary.org/)).
-   1. **Regulation** (source: regulations.gov).
-   1. **Fintech and Third-Party Providers** (source: fintechdb.com 2020).
-   1. **Financial Inclusion** (source: [www.worldbank.org](http://www.worldbank.org/)).
-   1. **Application Programming Interface or APIs** (source: postman.com).
-   1. **Economic Development** (source: [www.cambridge.org](http://www.cambridge.org/)).
+   2. **Regulation** (source: regulations.gov).
+   3. **Fintech and Third-Party Providers** (source: fintechdb.com 2020).
+   4. **Financial Inclusion** (source: [www.worldbank.org](http://www.worldbank.org/)).
+   5. **Application Programming Interface or APIs** (source: postman.com).
+   6. **Economic Development** (source: [www.cambridge.org](http://www.cambridge.org/)).
 
 By analyzing these variables and their interaction, we aim to gain a comprehensive understanding of open banking's performance in diverse contexts and its potential impact on the financial landscapes of developing countries.
 
@@ -114,29 +115,9 @@ H2: open banking will significantly increase the living standard of developing c
 
 Figure 1 visually illustrates a direct relationship between open banking and the development of countries. However, it is essential to recognize that the performance of open banking is intricately intertwined with the external factors previously mentioned, which play a pivotal role in determining its impact.
 
-Developing Countries
-
-`       `Open Banking
-
-![](Aspose.Words.1b1be864-7a74-466e-9fca-a14ae0ef9f3c.001.png)![](Aspose.Words.1b1be864-7a74-466e-9fca-a14ae0ef9f3c.002.png)![](Aspose.Words.1b1be864-7a74-466e-9fca-a14ae0ef9f3c.003.png)
-
-![](Aspose.Words.1b1be864-7a74-466e-9fca-a14ae0ef9f3c.004.png)
-
-`          `External Factors
-
-- Financial Literacy
-- Regulation
-- Fintech, third party   providers
-- Financial inclusion
-- Application programming interface or APIs
-- Economic development
 
 
-![](Aspose.Words.1b1be864-7a74-466e-9fca-a14ae0ef9f3c.005.png)
-
-
-
-
+![Figure 1. Conceptual Model of the relationship between open banking and developing countries](images/Figure 1. Conceptual Model of the relationship between open banking and developing countries.png)
 
 
 `      `**Figure 1. Conceptual Model of the relationship between open banking and developing                                                                                             countries**
