@@ -30,6 +30,7 @@ Another study conducted by Kirti, and Shin, (2020) stated life insurers can be v
 **CONCEPTUAL MODEL OF THE STUDY** 
 
 Based on the provided literature and the problem statement a conceptual model has been illustrated in Figure 1. The conceptual model entails the hypothesis developed by analyzing the impact of Covid-19 on profitability measures such ROA, ROE, and Stock Return while also controlling other factors such as Interest rate risk, Market Risk, and Catastrophe Hazard Risk.
+
 ![Figure 1. Conceptual Model of The Impact of The Covid-19 on Profitability of Insurance Firms.](/images/Aspose.Words.644ca5c4-ed21-4c4d-9911-088767ee36aa.001.png)
 
 *Figure 1. Conceptual Model of The Impact of The Covid-19 on Profitability of Insurance Firms*
