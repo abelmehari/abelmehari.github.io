@@ -1,6 +1,6 @@
 ---
 title: "A Comprehensive Analysis of the Relationship between International Trade, Imports, Exports, and Economic Growth: A Study of China, India, and the United States (1990-2021)"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/>"
 collection: Portfolio
 ---
  
