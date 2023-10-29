@@ -1,6 +1,7 @@
 ﻿---
 title: "Unveiling the Potential Open Banking in Developing Countries - A Regression Analysis."
-excerpt: "Short description of portfolio item number 1<br/>"
+excerpt: "
+This research proposal explores the impact of open banking in both developed and developing countries, considering various external factors. It seeks to investigate the performance of open banking in different contexts, with a focus on its potential benefits and implications for financial landscapes in developing nations. The research employs regression analysis to test hypotheses related to open banking's impact in both developed and developing countries, providing a comprehensive analysis of this emerging financial paradigm. 1<br/>"
 collection: portfolio
 ---
 
@@ -43,7 +44,7 @@ Open Banking is rooted in the fundamental principle of enhancing data access. It
 
 At the core of Open Banking lies the use of Open Application Programming Interfaces (Open APIs) (Funk and Hirschman, 2014; Scott and Bolotin, 2016). These APIs enable organizations to harness their valuable data to develop new services and functionalities. Simultaneously, they promote innovative forms of distribution and enhanced servicing capabilities.
 
-Open Banking signifies a transformative shift in the finance industry. It addresses the limitations of competition and customer choice that traditional banking faced. By democratizing access to financial data and fostering innovation through Open APIs, Open Banking empowers customers and small businesses to make more informed financial decisions. This concept not only benefits individuals and small enterprises but also ushers in a new era of possibilities for the entire financial industry.
+Open Banking signifies a transformative shift in the finance industry. It addresses the limitations of competition and customer choice that traditional banking faces. By democratizing access to financial data and fostering innovation through Open APIs, Open Banking empowers customers and small businesses to make more informed financial decisions. This concept not only benefits individuals and small enterprises but also ushers in a new era of possibilities for the entire financial industry.
 
 *1.2 How Open Banking Works and Application Programming Interface (APIs)*
 
@@ -72,7 +73,7 @@ As previously highlighted, there exists a noticeable research gap concerning the
 
 3. *Structure of the Study*
 
-In our research proposal, we commenced by providing a comprehensive definition of open banking, expounded on the significance of Application Programming Interfaces (APIs), and elucidated the primary gaps prevalent in the current open banking landscape. Moving to section two, we delved into an exploration of significant research studies conducted in the field of open banking.Section three of our proposal is dedicated to the application of regression analysis as a method for quantifying the performance of open banking in developed countries, scrutinizing its response to external factors. Furthermore, we aim to extrapolate from these findings whether the same analytical framework can be extended to predict the potential performance of open banking in the context of developing countries.In the subsequent section, section four, we propose the titles for individual chapters within the comprehensive study, providing an overview of the structure and content of the forthcoming research.Finally, in section five, we outline a research timetable, offering a well-defined schedule for the study's progression and key milestones. This timetable will serve as a guide for the effective execution of the research, ensuring its successful completion.
+In our research proposal, we commenced by providing a comprehensive definition of open banking, expounded on the significance of Application Programming Interfaces (APIs), and elucidated the primary gaps prevalent in the current open banking landscape. Moving to section two, we delved into an exploration of significant research studies conducted in the field of open banking. Section three of our proposal is dedicated to the application of regression analysis as a method for quantifying the performance of open banking in developed countries, scrutinizing its response to external factors. Furthermore, we aim to extrapolate from these findings whether the same analytical framework can be extended to predict the potential performance of open banking in the context of developing countries. In the subsequent section, section four, we propose the titles for individual chapters within the comprehensive study, providing an overview of the structure and content of the forthcoming research. Finally, in section five, we outline a research timetable, offering a well-defined schedule for the study's progression and key milestones. This timetable will serve as a guide for the effective execution of the research, ensuring its successful completion.
 
 **2- LITERATURE REVIEW**
 
@@ -109,7 +110,7 @@ By analyzing these variables and their interaction, we aim to gain a comprehensi
 
 Drawing upon the data collected and our thorough evaluation, this study puts forth the following research questions:
 
-H1: open banking has had positive feedback and outcome in developed countries.
+H1: open banking has had positive feedback and outcomes in developed countries.
 
 H2: open banking will significantly increase the living standard of developing countries 
 
@@ -121,13 +122,13 @@ Figure 1 visually illustrates a direct relationship between open banking and the
 
 2. *Methodology*
 
-To ensure a robust and just research, our concept and proposal necessitate rigorous testing through regression model analysis. This method will enable us to explore the relationship between open banking and developing countries, as well as gauge the extent to which external or control factors influence open banking's performance.
+To ensure robust and just research, our concept and proposal necessitate rigorous testing through regression model analysis. This method will enable us to explore the relationship between open banking and developing countries, as well as gauge the extent to which external or control factors influence open banking's performance.
 
 For our first hypothesis, positing that open banking has yielded positive outcomes in developed countries, our regression analysis formula is as follows:
 
 **OBt = β0 + β1(FL) + β2(R) + β3(TTP) + β4(FI) + β5(API) + β6(ED) + εt**
 
-In this equation, 'OBt' denotes our dependent variable, open banking during period 't'. The independent variable is 'developed countries'. In addition, we incorporate the following external or control variables: 'FL' for financial literacy, 'R' for regulation, 'TTP' for third-party providers, 'FI' for financial inclusion, 'API' for application programming, 'ED' for economic development, and finally, 'εt', signifying the error term in our model.
+In this equation, 'OBt' denotes our dependent variable, open banking during the period 't'. The independent variable is 'developed countries'. In addition, we incorporate the following external or control variables: 'FL' for financial literacy, 'R' for regulation, 'TTP' for third-party providers, 'FI' for financial inclusion, 'API' for application programming, 'ED' for economic development, and finally, 'εt', signifying the error term in our model.
 
 As for the second hypothesis, which anticipates a positive outcome for open banking in developing countries, the corresponding regression formula reads:
 
@@ -153,19 +154,19 @@ CHAPTER 5: CONCLUSION & POLICY IMPLICATIONS
 
 **5- RESEARCH TIMETABLE**
 
-The study proposes the following research timetable for actual study which will be initiated during fall 2021/ 2022
+The study proposes the following research timetable for the actual study which will be initiated during fall 2021/ 2022
 
-September 2021                -    Literature review
+September 2021               -    Literature review
 
-October 2021                   -     Literature Review
+October 2021                 -     Literature Review
 
-November 2022               -     Data Collection
+November 2022                -     Data Collection
 
 December 2021                -    Getting Initial Results
 
-January- February 2022   -     Writing Chapters
+January- February 2022       -      Writing Chapters
 
-March 2022                       -     Applying for the thesis Defense 
+March 2022                   -     Applying for the Thesis Defense 
 
 **REFERENCES**
 
@@ -179,9 +180,9 @@ Jacobson T, et al. (2012**)** Arsenite interferes with protein folding and trigg
 
 Kellezi, D., Boegelund, C., Meng, W.: Towards secure Open Banking architecture: An evaluation with OWASP. In: International Conference on Network and System Security. pp. 185{198. Springer (2019).
 
-Lackberg & Larson (2020), Open Banking Loyalty A qualitative study on customer loyalty in retail banking. Masters degree project in marketing and consumption. 
+Lackberg & Larson (2020), Open Banking Loyalty A qualitative study on customer loyalty in retail banking. Master's degree project in marketing and consumption. 
 
-Markos Zachariadis and Pinar Ozcan (2017) “The API Economy and Digital Transformation in Financial Services: The case of Open Banking”, SWIFT INSTITUTE WORKING PAPER NO. 2016-001.
+Markos Zachariadis and Pinar Ozcan (2017) “The API Economy and Digital Transformation in Financial Services: The Case of Open Banking”, SWIFT INSTITUTE WORKING PAPER NO. 2016-001.
 
 Nicholls, C., 2019. Open banking and the rise of FinTech: Innovative Finance and Functional Regulation. Banking & Finance Law Review, 35(1), pp. 121-151.
 
