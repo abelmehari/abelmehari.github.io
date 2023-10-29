@@ -1,13 +1,14 @@
-﻿---
-title: "Unveiling the Potential Open Banking in Developing Countries - A Regression Analysis."
-excerpt: "
-This research proposal explores the impact of open banking in both developed and developing countries, considering various external factors. It seeks to investigate the performance of open banking in different contexts, with a focus on its potential benefits and implications for financial landscapes in developing nations. The research employs regression analysis to test hypotheses related to open banking's impact in both developed and developing countries, providing a comprehensive analysis of this emerging financial paradigm. 1<br/>"
-collection: portfolio
 ---
+title: "Unveiling the Potential: Open Banking in Developing Countries - A Regression Analysis"
+excerpt: "
+This research proposal explores the impact of open banking in both developed and developing countries, considering various external factors. It seeks to investigate the performance of open banking in different contexts, with a focus on its potential benefits and implications for financial landscapes in developing nations. The research employs regression analysis to test hypotheses related to open banking's impact in both developed and developing countries, providing a comprehensive analysis of this emerging financial paradigm.. 1<br/>"
+collection: Portfolio
+---
+ 
 
 
 
-**Unveiling the Potential Open Banking in Developing Countries - A Regression Analysis.**
+**Unveiling the Potential: Open Banking in Developing Countries - A Regression Analysis.**
 
 
 #
