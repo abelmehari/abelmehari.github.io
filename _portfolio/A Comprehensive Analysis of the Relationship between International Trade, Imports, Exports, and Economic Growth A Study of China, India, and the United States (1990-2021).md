@@ -1,11 +1,11 @@
 ---
 title: "A Comprehensive Analysis of the Relationship between International Trade, Imports, Exports, and Economic Growth: A Study of China, India, and the United States (1990-2021)"
-excerpt: "Short description of portfolio item number 1<br/>"
+excerpt: "This research proposal aims to analyze the impact of international trade, including import-oriented and export-oriented policies, on the economic growth of China, India, and the United States from 1990 to 2021. The study employs regression analysis to test three hypotheses, exploring the relationships between trade volume, imports, exports, and Gross Domestic Product (GDP). It acknowledges the limitations of focusing solely on trade as a growth determinant and the potential impact of other economic factors. 1<br/>"
 collection: Portfolio
 ---
  
 
- **A Comprehensive Analysis of the Relationship between International Trade, Imports, Exports, and Economic Growth: A Study of China, India, and the United States (1990-2021)**
+
 
 ` `**Abstract**
 
