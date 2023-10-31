@@ -12,7 +12,7 @@ Modern Portfolio Theory, based on the principle of diversification, guides our a
 **Naïve Diversification VS Efficient diversification**     
 An equal-weighted portfolio increases the risks of securities stocks in the investment portfolio of an investor. Risk in such a portfolio cannot be eliminated easily because diversification is not possible. The value of an investment portfolio may decline over a given time period simply because of economic changes or other events (change in tax reforms, change in the world energy situation, etc.) that impact large portions of the market.  
 
- ![Figure 1: Optimal Portfolio Whole Period.](images/Figure 1 Optimal Portfolio Whole Period.png)
+ ![Figure 1: Optimal Portfolio Whole Period.](/images/Figure 1 Optimal Portfolio Whole Period.png)
  
 Figure 1: Optimal Portfolio Whole Period  
 The Optimal Portfolio (OPA), which is constructed based on the mean-variance optimization technique, aims to achieve the highest possible return for a given level of risk. In our case, the OPA had a risk of 3.117% and a return of 0.689%. This means that the OPA was able to generate a relatively higher return for the level of risk taken. As we can see from Figure 1 the OPA is able to generate a higher return by investing 20% of our assets in Real estate and 80% of our assets in US high-yield bonds.   
