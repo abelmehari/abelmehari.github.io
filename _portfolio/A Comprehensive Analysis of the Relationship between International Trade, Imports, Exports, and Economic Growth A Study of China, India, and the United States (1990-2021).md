@@ -1,6 +1,6 @@
 ---
 title: "A Comprehensive Analysis of the Relationship between International Trade, Imports, Exports, and Economic Growth: A Study of China, India, and the United States (1990-2021)"
-excerpt: "This research proposal aims to analyze the impact of international trade, including import-oriented and export-oriented policies, on the economic growth of China, India, and the United States from 1990 to 2021. The study employs regression analysis to test three hypotheses, exploring the relationships between trade volume, imports, exports, and Gross Domestic Product (GDP). It acknowledges the limitations of focusing solely on trade as a growth determinant and the potential impact of other economic factors. 1<br/>"
+excerpt: "This research proposal aims to analyze the impact of international trade, including import-oriented and export-oriented policies, on the economic growth of China, India, and the United States from 1990 to 2021. The study employs regression analysis to test three hypotheses, exploring the relationships between trade volume, imports, exports, and Gross Domestic Product (GDP). It acknowledges the limitations of focusing solely on trade as a growth determinant and the potential impact of other economic factors. <br/>"
 collection: Portfolio
 ---
  
@@ -42,10 +42,9 @@ Export-oriented trade policies are recognized for their potential to stimulate e
 While imports are often viewed as potential constraints on economic growth, they can play a pivotal role in stimulating growth by facilitating the transfer of technology from developed countries to developing economies (Awokuse. 2011). (Islam, Hye, and Shahbaz.2012) contend that a long-term connection exists between imports and growth, particularly for high-income countries. Similarly, (Ugur. 2008), in his investigation of imports and growth in Turkey, indicates that imports and growth exhibit a positive correlation, particularly for investment goods such as raw materials, as opposed to consumer goods.
 
 **METHODOLOGY**                                                                                                                                                                                           
-
 Economic growth is conventionally measured using the standard metric of Gross Domestic Product (GDP), as endorsed by reputable institutions such as the IMF and the World Bank. GDP, as a gauge of economic performance, encompasses various components, including consumption (C), investment (I), government spending (G), and net exports (X-M). Given that trade is intricately linked to economic performance, a substantial portion of empirical research has sought to unveil the correlation between economic growth and trade, drawing on historical data (Sheehey, 1992). The underlying rationale for this pursuit lies in the understanding that if trade significantly influences the measurement of economic performance within a given period, any alterations in trade patterns will have a direct impact on aggregate output, namely GDP.
 
-In alignment with previous research, this study adopts a methodological approach that centers on examining the correlation between economic growth and trade. Furthermore, this research extends the scope by delving into specific elements, assessing how both imports and exports distinctly affect economic growth. Based on the reviewed literature and the articulated problem statement, this study illustrates a conceptual model (Figure 1) portraying the intricate relationship between international trade and economic growth.
+In alignment with previous research, this study adopts a methodological approach that centers on examining the correlation between economic growth and trade. Furthermore, this research extends the scope by delving into specific elements, assessing how both imports and exports distinctly affect economic growth. Based on the reviewed literature and the articulated problem statement, this study illustrates a conceptual model.
 
 
 ![Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth](/images/Figure 1. Conceptual Model of The Relationship between International Trade and Economic Growth.PNG)
@@ -54,11 +53,11 @@ In alignment with previous research, this study adopts a methodological approach
 
 Grounded in the preceding literature, the defined problem statement, and the conceptual framework, this study introduces three hypotheses that seek to elucidate the linkages between international trade, imports, exports, and economic growth:
 
-H1: There is a positive relationship between trade (Trade Volume) and economic growth (GDP)
+H1: There is a positive relationship between trade (Trade Volume) and economic growth (GDP).
 
-H2: There is a positive relationship between Import(M) and economic growth (GDP)
+H2: There is a positive relationship between Import(M) and economic growth (GDP).
 
-H3: There is a positive relationship between Export(X) and economic growth (GDP)
+H3: There is a positive relationship between Export(X) and economic growth (GDP).
 
 **Method**
 
@@ -67,24 +66,31 @@ H3: There is a positive relationship between Export(X) and economic growth (GDP)
 This study aims to investigate the influence of international trade, imports (M), and exports (X) on economic growth. The study focuses on countries as the targeted population, specifically India, China, and the United States. Data for this study is historical, and it takes the form of a cross-sectional study utilizing time series data. Past research has established a long-term behavioral correlation between a country's trade openness and its subsequent economic growth (Awokuse, 2011). To accurately estimate this long-term relationship, the study examines a sample period spanning from 1990 to 2021, with a total of 372 observations collected.
 
 **Measures**
+
 The theory of trade lacks a definitive guideline for analyzing the link between trade and growth, often relying on empirical intuition and previous research (Awokuse, 2011). In line with this, the study formulates three hypotheses: the positive impact of trade on growth, the positive influence of both import-oriented and export-oriented policies on growth. Drawing from prior empirical research (e.g., Uğur, 2008; Ulaşan, 2012), the study employs a regression analysis method to explore the relationship between international trade, imports, exports, and growth.
 
 **Procedure**
+
 This study conducts a comprehensive analysis of the proposed hypotheses across three dimensions. The data utilized is secondary data collected from India, China, and the USA, including measurements of economic growth (GDP), trade volume, imports (M), and exports (X). All data is sourced from the World Bank Development indicators and is presented in US dollars (World Bank, 2022). To assess how trade affects growth, an understanding of how trade is measured is essential. As trade is a constituent of GDP, trade openness and volume directly influence a country's output and, consequently, its growth. Thus, the study examines the total annual import and export as a ratio of GDP as a straightforward measure of trade volume (Yanikkaya, 2003).
 
 The first dimension addresses the first hypothesis, which posits a positive relationship between trade volume and economic growth. Regression equations will be constructed, with the GDP of India, China, and the USA as the dependent variable, and trade volume as the independent variable. The results will be evaluated both separately and collectively. The second dimension, aligning with the second hypothesis, investigates the positive impact of imports on economic growth. The regression equation for this dimension uses the GDP of the three countries as the dependent variable and imports (M) as the independent variable. Since the goal is to determine whether increased imports positively impact the economy, data from all three countries will be analyzed individually and collectively. The third dimension examines the third hypothesis, which asserts a positive relationship between exports and economic growth. The corresponding regression equation will use the GDP of all three nations as the dependent variable, with aggregate exports (X) as the independent variable. Results from this hypothesis will be assessed both separately and collectively.
 
 **Analytical Plans**
+
 The statistical software package "EViews" will be employed to analyze the relationships between trade and growth, and whether import-oriented and export-oriented policies contribute to economic growth, based on the regression models. Additionally, the program will facilitate the comparison and analysis of the regression results for trade and growth in all three countries, both individually and collectively.
 
 **Ethical Considerations**
+
 This study will adhere to scientific research ethics and standards in accordance with the scientific integrity of the Near East University. The research will solely employ publicly available secondary data obtained from World Bank indicators, with no manipulation of the data to produce intended results.
 
 **Limitations of the Study**
+
 Economic growth results from the collective interplay of numerous factors, and while trade is a significant component of aggregate output, various other elements contribute to a country's economic growth, including productivity, government spending, and investment. These additional factors explain the potential for conflicting results in the evaluation of trade and growth in previous research. Consequently, this study will exclusively focus on trade as the primary determinant of economic growth. To address these complexities, regression analysis will provide insights into the potential correlation between trade and economic growth. Moreover, a country's economic condition varies over time, influencing the impact of trade on aggregate output. As a result, this study examines the specific period from 1990 to 2021 to account for these temporal variations.
 
 **Conclusion**
+
 The interplay between trade and economic growth has been the subject of centuries of inquiry and study. Numerous philosophers and scholars from around the world have offered diverse perspectives on the impact of trade on society, culminating in the development of modern trade theory. This theory predominantly supports a positive outcome of trade on economic growth. Consequently, many countries, including the World Bank, advocate for trade openness. Nevertheless, as the global economy becomes increasingly open to trade, it is evident that trade can also have detrimental effects on income distribution and unemployment. These adverse effects have faced significant criticism in recent years, particularly in Western countries, which rely on countries like China, the world's largest exporter of goods, while simultaneously running trade deficits. This scenario presents multiple challenges, including assessing the contemporary relationship between trade and growth in the 21st century, discerning the benefits of imports, and evaluating the benefits of exports. As a result, this study seeks to assess the relationship between trade and growth by examining the three most populous countries globally—China, India, and the United States. Additionally, the study will investigate whether relying solely on imports or exports can positively impact economic growth.
+
 
 **References** 
 
