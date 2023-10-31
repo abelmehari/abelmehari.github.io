@@ -12,7 +12,7 @@ Modern Portfolio Theory, based on the principle of diversification, guides our a
 **Naïve Diversification VS Efficient diversification**     
 An equal-weighted portfolio increases the risks of securities stocks in the investment portfolio of an investor. Risk in such a portfolio cannot be eliminated easily because diversification is not possible. The value of an investment portfolio may decline over a given time period simply because of economic changes or other events (change in tax reforms, change in the world energy situation, etc.) that impact large portions of the market.  
 
- ![Figure 1: Optimal Portfolio Whole Period.](images/Figure 1 Optimal Portfolio Whole Period.png)
+ ![Figure 1: Optimal Portfolio Whole Period.](/images /Figure 1 Optimal Portfolio Whole Period.png)
  
 Figure 1: Optimal Portfolio Whole Period  
 The Optimal Portfolio (OPA), which is constructed based on the mean-variance optimization technique, aims to achieve the highest possible return for a given level of risk. In our case, the OPA had a risk of 3.117% and a return of 0.689%. This means that the OPA was able to generate a relatively higher return for the level of risk taken. As we can see from Figure 1 the OPA is able to generate a higher return by investing 20% of our assets in Real estate and 80% of our assets in US high-yield bonds.   
@@ -30,44 +30,24 @@ A downward change in the risk-free rate would have a positive effect on portfoli
 
 **Adding Investment Limits and Target Return**    
 Adding investment limits to our portfolio or adding a 9% return target will cause some detrimental effects on our portfolio. Starting with the investment limits when we compare our limited portfolio in COPA to our original OPA4 portfolio we see a 9.1% increase in required return but a 14.9% decrease in RTV. This is due to the increase in risk from adding the investment limits. When we look at the combined investment limit and target required return portfolio COPA9 there is a 9.1% decrease in return and a 14.9% decrease in RTV. These results indicate that although we may see some increased return when adding these investment limits this is at the cost of significantly increased risk and decrease in RTV ratio. Based on these results I would not recommend adding these investment limitations without specific reasons for a required return amount or asset allocation limitations.  
-  
+ ![Figure 3.](images /Fig 3 Investment Limits Comparison.png)
+ ![Figure 4.](/images /Fig 4 Investment Limits Vs Original Portfolio % Change.png)
+ 
  **Sensitivity to Changing Interest Rates**  
 The mean-optimization is indeed sensitive to changing the targeted level of risk because our analysis is based on Markowitz portfolio theory which is to determine the highest level of return for a given level of risk. What we have done in our analysis is an alternative approach that is we have found the portfolio with the least amount of risk for the given level of return, no matter what rout we take the result would be the same as both those routes would derive the same efficient frontier. To prove this point we have run our model without any constraint or targeted return and with a constrain or a targeted return of 9% (0.75% monthly). Table 1 demonstrates the sensitivity of portfolio risk by comparing the risk and return of both models – the one with the target return constraint and the one without it. The table highlights that each model produces different levels of risk and, in some cases, different returns. Even when the return is the same, we observe that the portfolio's risk is influenced by the presence of a constraint. For instance, consider the cases of COPA9 and COPA for the entire period. The model without the constraint already yielded a return higher than the target return, making it the optimal risky portfolio for the given target. Therefore, the combination of assets remains unchanged in this scenario.  
   
+![Table 1.](/images /Table 1 comparing Target and Arithmetic average return models.png)
+
 Table 1 compares Target and Arithmetic average return models  
-        Target Return Standard Deviation   
-  	Arithmetic  	Average
-Deviation   
-  	 	Standard  
- 	Standard  deviation  	Expected  return  	 	Standard  deviation  	Expected  return  
-OPA9  	3.72%  	0.75%  	OPA4  	3.117%  	0.69%  
-OP19  	1.98%  	0.75%  	OP14  	1.758%  	0.70%  
-OP29  	4.306%  	0.92%  	OP24  	4.306%  	0.92%  
-COPA9  	4.3064%  	0.75%  	COPA  	4.306%  	0.75%  
-COP19  	2.42%  	0.75%  	COP1  	1.602%  	0.59%  
-COP29  	4.32%  	0.81%  	COP2  	4.316%  	0.81%  
-  
+         
 Overall, our analysis confirms that the mean-optimization approach is sensitive to the chosen level of risk constraint. By examining the risk and return trade-offs in different portfolios, we gain valuable insights into portfolio construction and the impact of targeting specific returns on risk levels.  
 
 **Out-of-Sample Test Results**    
-Although using the optimal weights from previous periods can be used as a reference or setting expectations for the future performance of a portfolio it doesn’t necessarily mean that it will be the optimal weight of a portfolio in the future. There are a few reasons as to why this may not be the case. First, the market conditions of the past will not be the same as the market conditions in the future therefore we can not replicate the same exact returns. Portfolio optimization relies on the expected return, risk, correlation among different assets, and the risk-free rate, all those factors are difficult to predict and are subject to change any time therefore a single change in those factors can also change the outcome of the optimal portfolio. Second, the investors’ objectives might also change during a given period therefore the new portfolio might have new constraints that will change the optimal weight of the portfolio. In our analysis, we have done out of sample results to see if the optimal weight from sub-period one would give us a better return to volatility ratio in the second period, and those results are described in Table 2.  Table 2 Out of sample and Optimal Portfolio Model  
-  
-Out-of-Sample Test Results  	 	Optimal portfolio results  
-Portfolios  	Portfolio's  
-Expected  
-Return   	Portfolio's  
-Standard  
-Deviation   	Portfolio's  
-Expected  
-Performance  	Portfolios  	Portfolio's  
-Expected  
-Return   	Portfolio's  
-Standard  
-Deviation   	Portfolio's  
-Expected  
-Performance   
-COP2(OS)  	0.1710%  	1.4556%  	-0.1115  	COP2   	0.81254%  	4.31582%  	0.111034  
-COP29(OS)  	0.1294%  	1.8527%  	-0.11  	COP29   	0.81254%  	4.31582%  	0.111034  
+Although using the optimal weights from previous periods can be used as a reference or setting expectations for the future performance of a portfolio it doesn’t necessarily mean that it will be the optimal weight of a portfolio in the future. There are a few reasons as to why this may not be the case. First, the market conditions of the past will not be the same as the market conditions in the future therefore we can not replicate the same exact returns. Portfolio optimization relies on the expected return, risk, correlation among different assets, and the risk-free rate, all those factors are difficult to predict and are subject to change any time therefore a single change in those factors can also change the outcome of the optimal portfolio. Second, the investors’ objectives might also change during a given period therefore the new portfolio might have new constraints that will change the optimal weight of the portfolio. In our analysis, we have done out of sample results to see if the optimal weight from sub-period one would give us a better return to volatility ratio in the second period, and those results are described in 
+
+![Table 2.](/images/Table 2 Out of sample and Optimal Portfolio Model (2).png)
+
+Table 2.  Table 2 Out of sample and Optimal Portfolio Model  
   
 As we can see from the table both the portfolios with using the mean-variance allocation have a higher Sharpe ratio and a higher reward.  COP2 which is the portfolio for subperiod 2 uses the optimal weight from subperiod one and it has a return of 0.17%, standard deviation of 1.45%, and Reward volatility ratio of -0.1115 while COP2 the optimal portfolio using the mean-variance optimization model gives us a return of 0.81%, standard deviation of 4.33% and positive reward to volatility ratio of 0.11.  this is also true for subperiod 2 with constraints, the optimal portfolio gives us a reward-to-volatility ratio of 0.11 while using the optimal period from subperiod one gives us a negative reward-to-volatility ratio of -0.11. investors prefer a portfolio with the highest possible reward for a given level of volatility as we can see from COP2(OS) the reward to volatility is negative therefore it is not the optimal weight.  
    
