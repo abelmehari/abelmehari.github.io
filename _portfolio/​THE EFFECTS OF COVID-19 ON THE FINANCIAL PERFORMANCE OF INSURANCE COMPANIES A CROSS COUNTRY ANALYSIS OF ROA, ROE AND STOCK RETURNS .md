@@ -1,6 +1,6 @@
 ---
 title: "The Effects Of Covid-19 On The Financial Performance Of Insurance Companies: A Cross Country Analysis Of ROA, ROE And Stock Returns"
-excerpt: "s. 1<br/>"
+excerpt: "This study investigates the impact of the COVID-19 pandemic on the profitability of insurance firms worldwide during the years 2020 and 2021. Using regression analysis, it examines the relationship between the annual number of COVID-19 cases and the profitability of insurance companies based on Return on Assets (ROA), Return on Equity (ROE), and stock returns. The research aims to assess to what extent the pandemic has affected the financial performance of insurance firms, shedding light on their resilience during global crises.1<br/>"
 collection: Portfolio
 ---
 
