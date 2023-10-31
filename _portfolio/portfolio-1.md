@@ -1,6 +1,6 @@
 ---
 title: "Portfolio Optimization- Modern Portfolio Theory"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "This research focuses on optimizing a university endowment fund's investment portfolio through an extensive analysis of 13 different asset classes over a 20-year period. The study employs Modern Portfolio Theory, guided by Harry Markowitz's diversification principles, to construct portfolios that maximize returns while managing risk. It explores the impact of factors such as changes in risk-free rates, investment constraints, and different target returns, offering valuable insights for constructing an optimal, diversified portfolio. <br/>"
 collection: portfolio
 ---
 
