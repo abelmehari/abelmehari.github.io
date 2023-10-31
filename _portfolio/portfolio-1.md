@@ -12,7 +12,7 @@ Modern Portfolio Theory, based on the principle of diversification, guides our a
 **Naïve Diversification VS Efficient diversification**     
 An equal-weighted portfolio increases the risks of securities stocks in the investment portfolio of an investor. Risk in such a portfolio cannot be eliminated easily because diversification is not possible. The value of an investment portfolio may decline over a given time period simply because of economic changes or other events (change in tax reforms, change in the world energy situation, etc.) that impact large portions of the market.  
 
- ![Figure 1: Optimal Portfolio Whole Period.](/images /Figure 1 Optimal Portfolio Whole Period.png)
+ ![Figure 1: Optimal Portfolio Whole Period.](/images/Figure 1 Optimal Portfolio Whole Period.png)
  
 Figure 1: Optimal Portfolio Whole Period  
 The Optimal Portfolio (OPA), which is constructed based on the mean-variance optimization technique, aims to achieve the highest possible return for a given level of risk. In our case, the OPA had a risk of 3.117% and a return of 0.689%. This means that the OPA was able to generate a relatively higher return for the level of risk taken. As we can see from Figure 1 the OPA is able to generate a higher return by investing 20% of our assets in Real estate and 80% of our assets in US high-yield bonds.   
@@ -30,9 +30,9 @@ A downward change in the risk-free rate would have a positive effect on portfoli
 
 **Adding Investment Limits and Target Return**    
 Adding investment limits to our portfolio or adding a 9% return target will cause some detrimental effects on our portfolio. Starting with the investment limits when we compare our limited portfolio in COPA to our original OPA4 portfolio we see a 9.1% increase in required return but a 14.9% decrease in RTV. This is due to the increase in risk from adding the investment limits. When we look at the combined investment limit and target required return portfolio COPA9 there is a 9.1% decrease in return and a 14.9% decrease in RTV. These results indicate that although we may see some increased return when adding these investment limits this is at the cost of significantly increased risk and decrease in RTV ratio. Based on these results I would not recommend adding these investment limitations without specific reasons for a required return amount or asset allocation limitations.  
- ![Figure 3.](/images /Fig 3 Investment Limits Comparison.png)
+ ![Figure 3.](/images/Fig 3 Investment Limits Comparison.png)
  
- ![Figure 4.](/images /Fig 4 Investment Limits Vs Original Portfolio % Change.png)
+ ![Figure 4.](/images/Fig 4 Investment Limits Vs Original Portfolio % Change.png)
  
  **Sensitivity to Changing Interest Rates**  
 The mean-optimization is indeed sensitive to changing the targeted level of risk because our analysis is based on Markowitz portfolio theory which is to determine the highest level of return for a given level of risk. What we have done in our analysis is an alternative approach that is we have found the portfolio with the least amount of risk for the given level of return, no matter what rout we take the result would be the same as both those routes would derive the same efficient frontier. To prove this point we have run our model without any constraint or targeted return and with a constrain or a targeted return of 9% (0.75% monthly). Table 1 demonstrates the sensitivity of portfolio risk by comparing the risk and return of both models – the one with the target return constraint and the one without it. The table highlights that each model produces different levels of risk and, in some cases, different returns. Even when the return is the same, we observe that the portfolio's risk is influenced by the presence of a constraint. For instance, consider the cases of COPA9 and COPA for the entire period. The model without the constraint already yielded a return higher than the target return, making it the optimal risky portfolio for the given target. Therefore, the combination of assets remains unchanged in this scenario.  
