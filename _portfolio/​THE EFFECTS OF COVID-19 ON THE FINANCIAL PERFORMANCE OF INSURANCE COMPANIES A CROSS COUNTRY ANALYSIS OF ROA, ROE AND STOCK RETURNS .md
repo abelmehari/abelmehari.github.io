@@ -1,5 +1,5 @@
 ---
-title: "The Effects Of Covid-19 On The Financial Performance Of Insurance Companies: A Cross Country Analysis Of ROA, ROE And Stock Returns"
+title: " The Effects Of Covid-19 On The Financial Performance Of Insurance Companies: A Cross Country Analysis Of ROA, ROE And Stock Returns "
 excerpt: "Short description of portfolio item number 1<br/>
 collection: Portfolio
 ---
