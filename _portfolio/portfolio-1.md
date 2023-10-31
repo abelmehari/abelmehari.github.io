@@ -30,13 +30,14 @@ A downward change in the risk-free rate would have a positive effect on portfoli
 
 **Adding Investment Limits and Target Return**    
 Adding investment limits to our portfolio or adding a 9% return target will cause some detrimental effects on our portfolio. Starting with the investment limits when we compare our limited portfolio in COPA to our original OPA4 portfolio we see a 9.1% increase in required return but a 14.9% decrease in RTV. This is due to the increase in risk from adding the investment limits. When we look at the combined investment limit and target required return portfolio COPA9 there is a 9.1% decrease in return and a 14.9% decrease in RTV. These results indicate that although we may see some increased return when adding these investment limits this is at the cost of significantly increased risk and decrease in RTV ratio. Based on these results I would not recommend adding these investment limitations without specific reasons for a required return amount or asset allocation limitations.  
- ![Figure 3.](images /Fig 3 Investment Limits Comparison.png)
+ ![Figure 3.](/images /Fig 3 Investment Limits Comparison.png)
+ 
  ![Figure 4.](/images /Fig 4 Investment Limits Vs Original Portfolio % Change.png)
  
  **Sensitivity to Changing Interest Rates**  
 The mean-optimization is indeed sensitive to changing the targeted level of risk because our analysis is based on Markowitz portfolio theory which is to determine the highest level of return for a given level of risk. What we have done in our analysis is an alternative approach that is we have found the portfolio with the least amount of risk for the given level of return, no matter what rout we take the result would be the same as both those routes would derive the same efficient frontier. To prove this point we have run our model without any constraint or targeted return and with a constrain or a targeted return of 9% (0.75% monthly). Table 1 demonstrates the sensitivity of portfolio risk by comparing the risk and return of both models – the one with the target return constraint and the one without it. The table highlights that each model produces different levels of risk and, in some cases, different returns. Even when the return is the same, we observe that the portfolio's risk is influenced by the presence of a constraint. For instance, consider the cases of COPA9 and COPA for the entire period. The model without the constraint already yielded a return higher than the target return, making it the optimal risky portfolio for the given target. Therefore, the combination of assets remains unchanged in this scenario.  
   
-![Table 1.](/images /Table 1 comparing Target and Arithmetic average return models.png)
+![Table 1.](/images/Table 1 comparing Target and Arithmetic average return models.png)
 
 Table 1 compares Target and Arithmetic average return models  
          
@@ -53,3 +54,17 @@ As we can see from the table both the portfolios with using the mean-variance al
    
 **Conclusion**    
 Our analysis has helped us determine an optimal portfolio for our asset classes, while also allowing us to see what would happen if we adjusted our inputs and requirements. Some of our key findings were that naive diversification yields less positive returns than the optimally diversified portfolio which is reasonable given the naïve portfolio will have allocations in asset classes which may not give us the best results in our overall portfolio. We also can see that the different subperiods have very different results, this is due to different economic circumstances in the 2003-2012 range of subperiod 1 and the 2013-2022 range of subperiod 2, subperiod 1 included the economic crisis of 2008 and subperiod 2 included the COVID crisis. Both economic events had different effects on the economy, so it stands to reason that the subperiods would yield significantly different results. When we analyze the effect of the risk-free rate we see that a decrease in the risk-free rate will have a positive effect on the RTV performance of our portfolios, so we should see an increase in performance if the rates drop/the rate hikes stop. We have also assessed our performance when investment allocation limits and a target return rate are provided, we determined that these will have a negative effect on our performance as these extra conditions don’t allow us to optimize our portfolio as efficiently as possible. Finally, we also saw the results of using portfolio weights from different subperiods in other subperiods (out-of-sample results) this clearly causes detrimental results as the optimization allocations are very dependent on the performance of the asset classes in specific periods so when using a different period’s optimal allocations weights, we won’t yield similar results. Overall, we learned the effects of different alterations to our optimal portfolio model and have figured out how to build a portfolio using numerous asset classes as efficiently as possible.  
+
+**Appendix** 
+
+![Template 1.](/images/Template 1.png)
+
+![Template 2.](/images/Template 2.png)
+
+![Template 3.](/images/Template 3.png)
+
+![Template 4.](/images/Template 4.png)
+
+![Template 5.](/images/Template 5.png)
+
+
